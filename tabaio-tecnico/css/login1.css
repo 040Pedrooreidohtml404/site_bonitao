@@ -1,0 +1,17 @@
+.body{
+    background: linear-gradient(135deg, orange 60%, cyan);
+    position: relative;
+    text-align: center;
+    top: 50%;
+
+};
+.barras{
+    background-color: crimson;
+}
+.button{
+    background-color: burlywood;
+    color: black;
+    padding: 5px black;
+    border-radius: 2px black;
+    border: 5px burlywood;
+}
